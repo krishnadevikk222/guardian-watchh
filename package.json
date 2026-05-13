@@ -1,0 +1,10 @@
+{
+  "name": "guardian-watch",
+  "version": "1.0.0",
+  "description": "Guardian Watch — AI Smart Safety System",
+  "scripts": {
+    "start": "cd backend && node server.js",
+    "dev": "cd backend && npx nodemon server.js",
+    "install-all": "cd backend && npm install"
+  }
+}
